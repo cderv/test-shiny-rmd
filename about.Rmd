@@ -1,0 +1,10 @@
+---
+title: "About"
+author: "C. Dervieux"
+date: "06/01/2022"
+output: html_document
+---
+
+This demo for `rmarkdown::run()` and sub-directories
+
+

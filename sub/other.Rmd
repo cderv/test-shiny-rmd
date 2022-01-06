@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "C. Dervieux"
+date: "06/01/2022"
+output: html_document
+---
+
+# Another document
+
+placed in a sub directory
+
+
